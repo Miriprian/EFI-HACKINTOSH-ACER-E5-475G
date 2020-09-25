@@ -1,5 +1,5 @@
 # EFI HACKINTOSH ACER E5 475G
-Detail :
+Detail :</br>
 Model : Aspire E5-475G
 CPU : Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
 Video Card 1 : Intel(R) HD Graphics 620
