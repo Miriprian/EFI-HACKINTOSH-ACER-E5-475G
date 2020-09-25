@@ -6,3 +6,8 @@ Video Card 1 : Intel(R) HD Graphics 620</br>
 Video Card 2 : NVIDIA GeForce 940MX</br>
 Audio : Realtek 255</br>
 Network : Qualcomm Atheros QCA9377 Wireless Network Adapter</br>
+# Quadrupole Boot :
+*Windows</br>
+*MX Linux</br>
+*Deepin</br>
+*macOS Catalina 10.15.6</br>
